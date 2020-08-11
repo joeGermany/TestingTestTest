@@ -1,7 +1,7 @@
 // @ts-nocheck
 
 function sum(a, b) {
-    return a + b + 42;
+    return a + b;
 }
 
 module.exports = sum;
